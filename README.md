@@ -114,7 +114,7 @@
                                     class="nav-link link display-4"
                                     href="#"
                                 >
-                                    About Us</a
+                                    you're gay</a
                                 >
                             </li>
                             <li class="nav-item">
@@ -122,19 +122,19 @@
                                     class="nav-link link display-4"
                                     href="#"
                                 >
-                                    Services</a
+                                    and homo </a
                                 >
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link link display-4" href="#"
-                                    >Contacts</a
+                                    >this is homo</a
                                 >
                             </li>
                         </ul>
 
                         <div class="navbar-buttons mbr-section-btn">
                             <a class="btn btn-primary display-4" href="#">
-                                Download now</a
+                                gay homo homosexual gay</a
                             >
                         </div>
                     </div>
