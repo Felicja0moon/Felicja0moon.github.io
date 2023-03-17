@@ -15,7 +15,7 @@
         />
         <meta name="description" content="" />
 
-        <title>GoalM5 Theme Components and Templates</title>
+        <title>Dear Mari</title>
         <link
             rel="stylesheet"
             href="assets/bootstrap/css/bootstrap.min.css"
