@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="UTF-8" />
@@ -561,7 +560,7 @@
                         <p
                             class="mbr-text mb-0 mbr-fonts-style copyright align-center display-4"
                         >
-                            © Copyright 2021 Mobirise. All Rights Reserved
+                         
                         </p>
                     </div>
                 </div>
